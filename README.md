@@ -22,6 +22,8 @@ My main technologies are: React/React Native with Javascript/Typescript and I re
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloDJunior&show_icons=true&theme=dracula)
