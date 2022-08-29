@@ -3,7 +3,7 @@
 # 👋 &nbsp;Hi there
 
 My name is Marcelo Dornelles Junior, I'm from Passo Fundo - Brazil and I love being a developer!<br>
-I'm a frontend and mobile developer and I'm currently working at Diletta Solutions.<br><br>
+I'm a frontend and mobile developer and I'm currently working at Praxent.<br><br>
 My main technologies are: React/React Native with Javascript/Typescript and I recently fell in love with Flutter ❤️<br><br>
 
 ## 🛠️ &nbsp;Stack
