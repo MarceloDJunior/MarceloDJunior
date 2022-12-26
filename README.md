@@ -4,7 +4,7 @@
 
 My name is Marcelo Dornelles Junior, I'm from Passo Fundo - Brazil and I love being a developer!<br>
 I'm a full stack developer and I'm currently working as a software engineer at Praxent.<br><br>
-My main technologies are: React, React Native and Node Javascript/Typescript.<br><br>
+My main technologies are: React, React Native and Node with Javascript/Typescript.<br><br>
 
 ## 🛠️ &nbsp;Stack
 
