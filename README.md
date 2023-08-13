@@ -2,14 +2,14 @@
 
 # 👋 &nbsp;Hi there
 
-My name is Marcelo Dornelles Junior, I'm from Passo Fundo - Brazil and I love being a developer!<br>
-I'm a full stack developer and I'm currently working as a software engineer at Praxent.<br><br>
-My main technologies are: React, React Native and Node with Javascript/Typescript.<br><br>
+I'm Marcelo Dornelles Junior, a full-stack developer from Brazil, currently working at Praxent as a software engineer.<br>
+With a deep-seated passion for technology, I thrive on creating innovative solutions.<br><br>
+My main areas of expertise are React, React Native, and Node with JavaScript/TypeScript, but I'm also well-versed in several other technologies.
 
 ## 🛠️ &nbsp;Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
